@@ -135,6 +135,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="constants.hpp" />
+    <ClInclude Include="fontset.hpp" />
+    <ClInclude Include="types.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

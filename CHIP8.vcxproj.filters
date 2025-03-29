@@ -26,5 +26,11 @@
     <ClInclude Include="constants.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="fontset.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="types.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
